@@ -1,6 +1,16 @@
 import fs from 'fs/promises'
 
 const slugify = name => name.toLowerCase().replace(/[^a-zA-Z]/g, '-')
+const lookup = {
+  '&': "&amp;",
+  '"': "&quot;",
+  '\'': "&apos;",
+  '<': "&lt;",
+  '>': "&gt;"
+}
+const escapeCode = s =>  {
+  return s.replace( /[&"'<>]/g, c => lookup[c] );
+}
 
 ;(async () => {
 
@@ -30,7 +40,7 @@ ${category.subcategories.map(subcategory =>
 <a name="${ subcategory.slug }"></a>
 ### ${subcategory.name}
 
-${subcategory.kaomojis.map(kaomoji => `<code>${kaomoji}</code>`).join('\n\n')}
+${subcategory.kaomojis.map(kaomoji => `<code>${escapeCode(kaomoji)}</code>`).join('\n\n')}
 `).join('')
 }`).join('')}
 

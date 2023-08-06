@@ -70,9 +70,9 @@
 
 <code>(⌒▽⌒)☆</code>
 
-<code><(￣︶￣)></code>
+<code>&lt;(￣︶￣)&gt;</code>
 
-<code>。.:☆*:･'(*⌒―⌒*)))</code>
+<code>。.:☆*:･&apos;(*⌒―⌒*)))</code>
 
 <code>ヽ(・∀・)ﾉ</code>
 
@@ -136,7 +136,7 @@
 
 <code>ヽ(o＾▽＾o)ノ</code>
 
-<code>☆ ～('▽^人)</code>
+<code>☆ ～(&apos;▽^人)</code>
 
 <code>(*°▽°*)</code>
 
@@ -154,7 +154,7 @@
 
 <code>╰(*´︶`*)╯</code>
 
-<code>ヽ(>∀<☆)ノ</code>
+<code>ヽ(&gt;∀&lt;☆)ノ</code>
 
 <code>o(≧▽≦)o</code>
 
@@ -180,7 +180,7 @@
 
 <code>(╯✧▽✧)╯</code>
 
-<code>o(>ω<)o</code>
+<code>o(&gt;ω&lt;)o</code>
 
 <code>o( ❛ᴗ❛ )o</code>
 
@@ -232,7 +232,7 @@
 
 <code>( ´ ▿ ` )</code>
 
-<code>(๑>◡<๑)</code>
+<code>(๑&gt;◡&lt;๑)</code>
 
 <code>( = ⩊ = )</code>
 
@@ -255,7 +255,7 @@
 
 <code>(*^^*)♡</code>
 
-<code>☆⌒ヽ(*'､^*)chu</code>
+<code>☆⌒ヽ(*&apos;､^*)chu</code>
 
 <code>(♡-_-♡)</code>
 
@@ -287,7 +287,7 @@
 
 <code>♡(｡- ω -)</code>
 
-<code>♡ ～('▽^人)</code>
+<code>♡ ～(&apos;▽^人)</code>
 
 <code>(´• ω •`) ♡</code>
 
@@ -313,7 +313,7 @@
 
 <code>(っ˘з(˘⌣˘ ) ♡</code>
 
-<code>♡ (˘▽˘>ԅ( ˘⌣˘)</code>
+<code>♡ (˘▽˘&gt;ԅ( ˘⌣˘)</code>
 
 <code>( ˘⌣˘)♡(˘⌣˘ )</code>
 
@@ -337,13 +337,13 @@
 
 <code>(°◡°♡)</code>
 
-<code>Σ>―(〃°ω°〃)♡→</code>
+<code>Σ&gt;―(〃°ω°〃)♡→</code>
 
 <code>(´,,•ω•,,)♡</code>
 
 <code>(´꒳`)♡</code>
 
-<code>♡(>ᴗ•)</code>
+<code>♡(&gt;ᴗ•)</code>
 
 <a name="positive-emotions--embarrassment"></a>
 ### Embarrassment
@@ -386,7 +386,7 @@
 
 <code>(*/▽＼*)</code>
 
-<code>(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)</code>
+<code>(⁄ ⁄&gt;⁄ ▽ ⁄&lt;⁄ ⁄)</code>
 
 <code>(„ಡωಡ„)</code>
 
@@ -401,7 +401,7 @@
 <a name="positive-emotions--sympathy"></a>
 ### Sympathy
 
-<code>(ノ_<。)ヾ(´ ▽ ` )</code>
+<code>(ノ_&lt;。)ヾ(´ ▽ ` )</code>
 
 <code>｡･ﾟ･(ﾉД`)ヽ(￣ω￣ )</code>
 
@@ -423,7 +423,7 @@
 
 <code>(っ´ω`)ﾉ(╥ω╥)</code>
 
-<code>(ｏ・_・)ノ”(ノ_<、)</code>
+<code>(ｏ・_・)ノ”(ノ_&lt;、)</code>
 
 <a name="negative-emotions"></a>
 ## Negative Emotions
@@ -461,7 +461,7 @@
 
 <code>(￣ヘ￣)</code>
 
-<code><(￣ ﹌ ￣)></code>
+<code>&lt;(￣ ﹌ ￣)&gt;</code>
 
 <code>(￣︿￣)</code>
 
@@ -475,7 +475,7 @@
 
 <code>(⇀‸↼‶)</code>
 
-<code>o(>< )o</code>
+<code>o(&gt;&lt; )o</code>
 
 <code>(」＞＜)」</code>
 
@@ -557,7 +557,7 @@
 <a name="negative-emotions--sadness"></a>
 ### Sadness
 
-<code>(ノ_<。)</code>
+<code>(ノ_&lt;。)</code>
 
 <code>(-_-)</code>
 
@@ -579,7 +579,7 @@
 
 <code>(｡╯︵╰｡)</code>
 
-<code>｡･ﾟﾟ*(>д<)*ﾟﾟ･｡</code>
+<code>｡･ﾟﾟ*(&gt;д&lt;)*ﾟﾟ･｡</code>
 
 <code>( ﾟ，_ゝ｀)</code>
 
@@ -587,7 +587,7 @@
 
 <code>(╯︵╰,)</code>
 
-<code>｡･ﾟ(ﾟ><ﾟ)ﾟ･｡</code>
+<code>｡･ﾟ(ﾟ&gt;&lt;ﾟ)ﾟ･｡</code>
 
 <code>( ╥ω╥ )</code>
 
@@ -599,7 +599,7 @@
 
 <code>(／ˍ・、)</code>
 
-<code>(ノ_<、)</code>
+<code>(ノ_&lt;、)</code>
 
 <code>(╥﹏╥)</code>
 
@@ -611,15 +611,15 @@
 
 <code>(ﾉω･､)</code>
 
-<code>･ﾟ･(｡>ω<｡)･ﾟ･</code>
+<code>･ﾟ･(｡&gt;ω&lt;｡)･ﾟ･</code>
 
 <code>(T_T)</code>
 
-<code>(>_<)</code>
+<code>(&gt;_&lt;)</code>
 
 <code>(っ˘̩╭╮˘̩)っ</code>
 
-<code>｡ﾟ･ (>﹏<) ･ﾟ｡</code>
+<code>｡ﾟ･ (&gt;﹏&lt;) ･ﾟ｡</code>
 
 <code>o(〒﹏〒)o</code>
 
@@ -632,11 +632,11 @@
 <a name="negative-emotions--pain"></a>
 ### Pain
 
-<code>~(>_<~)</code>
+<code>~(&gt;_&lt;~)</code>
 
-<code>☆⌒(> _ <)</code>
+<code>☆⌒(&gt; _ &lt;)</code>
 
-<code>☆⌒(>。<)</code>
+<code>☆⌒(&gt;。&lt;)</code>
 
 <code>(☆_@)</code>
 
@@ -691,7 +691,7 @@
 
 <code>(((＞＜)))</code>
 
-<code>{{ (>_<) }}</code>
+<code>{{ (&gt;_&lt;) }}</code>
 
 <code>＼(º □ º l|l)/</code>
 
@@ -762,7 +762,7 @@
 
 <code>(-_-;)・・・</code>
 
-<code>┐('～`;)┌</code>
+<code>┐(&apos;～`;)┌</code>
 
 <code>(・_・ヾ</code>
 
@@ -794,7 +794,7 @@
 
 <code>ლ(ಠ_ಠ ლ)</code>
 
-<code>ლ(¯ロ¯"ლ)</code>
+<code>ლ(¯ロ¯&quot;ლ)</code>
 
 <code>(¯ . ¯٥)</code>
 
@@ -878,7 +878,7 @@
 
 <code>( ° ∀ ° )ﾉﾞ</code>
 
-<code>ヾ(*'▽'*)</code>
+<code>ヾ(*&apos;▽&apos;*)</code>
 
 <code>＼(⌒▽⌒)</code>
 
@@ -964,7 +964,7 @@
 
 <code>(^ω~)</code>
 
-<code>(>ω^)</code>
+<code>(&gt;ω^)</code>
 
 <code>(~人^)</code>
 
@@ -972,19 +972,19 @@
 
 <code>( -_・)</code>
 
-<code>(^_<)〜☆</code>
+<code>(^_&lt;)〜☆</code>
 
-<code>(^人<)〜☆</code>
+<code>(^人&lt;)〜☆</code>
 
 <code>☆⌒(≧▽​° )</code>
 
 <code>☆⌒(ゝ。∂)</code>
 
-<code>(^_<)</code>
+<code>(^_&lt;)</code>
 
 <code>(^_−)☆</code>
 
-<code>(･ω<)☆</code>
+<code>(･ω&lt;)☆</code>
 
 <code>(^.~)☆</code>
 
@@ -992,7 +992,7 @@
 
 <code>(｡•̀ᴗ-)✧</code>
 
-<code>(>ᴗ•)</code>
+<code>(&gt;ᴗ•)</code>
 
 <a name="various-actions--apologizing"></a>
 ### Apologizing
@@ -1003,7 +1003,7 @@
 
 <code>m(. .)m</code>
 
-<code><(_ _)></code>
+<code>&lt;(_ _)&gt;</code>
 
 <code>人(_ _*)</code>
 
@@ -1103,7 +1103,7 @@
 
 <code>ε=ε=ε=ε=┌(;￣▽￣)┘</code>
 
-<code>ε=ε=┌( >_<)┘</code>
+<code>ε=ε=┌( &gt;_&lt;)┘</code>
 
 <code>C= C= C= C=┌( `ー´)┘</code>
 
@@ -1320,17 +1320,17 @@
 <a name="animals--fish"></a>
 ### Fish
 
-<code>(°)#))<<</code>
+<code>(°)#))&lt;&lt;</code>
 
-<code><・ )))><<</code>
+<code>&lt;・ )))&gt;&lt;&lt;</code>
 
 <code>ζ°)))彡</code>
 
-<code>>°))))彡</code>
+<code>&gt;°))))彡</code>
 
-<code>(°))<<</code>
+<code>(°))&lt;&lt;</code>
 
-<code>>^)))<～～</code>
+<code>&gt;^)))&lt;～～</code>
 
 <code>≧( ° ° )≦</code>
 
@@ -1408,7 +1408,7 @@
 
 <code>ヽ( ･∀･)ﾉ_θ彡☆Σ(ノ `Д´)ノ</code>
 
-<code>(*´∇`)┌θ☆(ﾉ>_<)ﾉ</code>
+<code>(*´∇`)┌θ☆(ﾉ&gt;_&lt;)ﾉ</code>
 
 <code>( ￣ω￣)ノﾞ⌒☆ﾐ(o _ _)o</code>
 
@@ -1418,15 +1418,15 @@
 
 <code>(╬￣皿￣)=○＃(￣#)３￣)</code>
 
-<code>(; -_-)――――――C<―_-)</code>
+<code>(; -_-)――――――C&lt;―_-)</code>
 
 <code>＜( ￣︿￣)︵θ︵θ︵☆(＞口＜－)</code>
 
 <code>(￣ε(#￣)☆╰╮o(￣▽￣///)</code>
 
-<code>ヽ(>_<ヽ) ―⊂|=0ヘ(^‿^ )</code>
+<code>ヽ(&gt;_&lt;ヽ) ―⊂|=0ヘ(^‿^ )</code>
 
-<code>ヘ(>_<ヘ) ￢o(￣‿￣ﾒ)</code>
+<code>ヘ(&gt;_&lt;ヘ) ￢o(￣‿￣ﾒ)</code>
 
 <code>,,((( ￣□)_／ ＼_(○￣ ))),,</code>
 
@@ -1434,11 +1434,11 @@
 
 <code>(╯°Д°)╯︵ /(.□ . ＼)</code>
 
-<code>(¬_¬'')ԅ(￣ε￣ԅ)</code>
+<code>(¬_¬&apos;&apos;)ԅ(￣ε￣ԅ)</code>
 
 <code>/( .□.)＼ ︵╰(°益°)╯︵ /(.□. /)</code>
 
-<code>(ﾉ-.-)ﾉ….((((((((((((●~* ( >_<)</code>
+<code>(ﾉ-.-)ﾉ….((((((((((((●~* ( &gt;_&lt;)</code>
 
 <code>!!(ﾒ￣ ￣)_θ☆°0°)/</code>
 
@@ -1473,7 +1473,7 @@
 
 <code>(; ・_・)――――C</code>
 
-<code>(ಠ o ಠ)¤=[]:::::></code>
+<code>(ಠ o ಠ)¤=[]:::::&gt;</code>
 
 <code>(*＾＾)/~~~~~~~~~~◎</code>
 
@@ -1500,7 +1500,7 @@
 
 <code>(ﾉ≧∀≦)ﾉ ‥…━━━★</code>
 
-<code>(ﾉ>ω<)ﾉ :｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆</code>
+<code>(ﾉ&gt;ω&lt;)ﾉ :｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆</code>
 
 <code>(ノ°∀°)ノ⌒･*:.｡. .｡.:*･゜ﾟ･*☆</code>
 
@@ -1527,7 +1527,7 @@
 
 <code>( ˘▽˘)っ♨</code>
 
-<code>♨o(>_<)o♨</code>
+<code>♨o(&gt;_&lt;)o♨</code>
 
 <code>( ・ω・)o-{{[〃]}}</code>
 
@@ -1629,13 +1629,13 @@
 
 <code>(／o^)/ °⊥ ＼(^o＼)</code>
 
-<code>!(;ﾟoﾟ)o/￣￣￣￣￣￣￣~ >ﾟ))))彡</code>
+<code>!(;ﾟoﾟ)o/￣￣￣￣￣￣￣~ &gt;ﾟ))))彡</code>
 
 <code>ヽ(^o^)ρ┳┻┳°σ(^o^)ノ</code>
 
 <code>(／_^)／　　●　＼(^_＼)</code>
 
-<code>"( (≡|≡))_／ ＼_((≡|≡) )"</code>
+<code>&quot;( (≡|≡))_／ ＼_((≡|≡) )&quot;</code>
 
 <code>( ノ-_-)ノﾞ_□ VS □_ヾ(^-^ヽ)</code>
 
