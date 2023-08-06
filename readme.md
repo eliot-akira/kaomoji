@@ -1,6 +1,8 @@
 
 # Kaomoji
 
+A collection of 778 emoticons.
+
 [https://en.wikipedia.org/wiki/Emoticon#Japanese_(kaomoji)](https://en.wikipedia.org/wiki/Emoticon#Japanese_(kaomoji))
 
 #### Table of contents

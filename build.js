@@ -20,6 +20,14 @@ const escapeCode = s =>  {
   await fs.writeFile('./readme.md', `
 # Kaomoji
 
+A collection of ${kaomojiCategories.reduce((total, category) => {
+  total += category.subcategories.reduce((total, subcategory) => {
+    total += subcategory.kaomojis.length
+    return total
+  }, 0)
+  return total
+}, 0)} emoticons.
+
 [https://en.wikipedia.org/wiki/Emoticon#Japanese_(kaomoji)](https://en.wikipedia.org/wiki/Emoticon#Japanese_(kaomoji))
 
 #### Table of contents
