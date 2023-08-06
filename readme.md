@@ -172,9 +172,9 @@
 
 <code>(o˘◡˘o)</code>
 
-<code>\(★ω★)/</code>
+<code>&#92;(★ω★)/</code>
 
-<code>\(^ヮ^)/</code>
+<code>&#92;(^ヮ^)/</code>
 
 <code>(〃＾▽＾〃)</code>
 
@@ -727,7 +727,7 @@
 
 <code>╮(￣～￣)╭</code>
 
-<code>¯\_(ツ)_/¯</code>
+<code>¯&#92;_(ツ)_/¯</code>
 
 <code>┐( ´ д ` )┌</code>
 
@@ -1022,7 +1022,7 @@
 
 <code>(￣ﾊ￣*)</code>
 
-<code>\(￣ﾊ￣)</code>
+<code>&#92;(￣ﾊ￣)</code>
 
 <code>(＾་།＾)</code>
 
@@ -1337,19 +1337,19 @@
 <a name="animals--spider"></a>
 ### Spider
 
-<code>/╲/\╭(ఠఠ益ఠఠ)╮/\╱\</code>
+<code>/╲/&#92;╭(ఠఠ益ఠఠ)╮/&#92;╱&#92;</code>
 
-<code>/╲/\╭(ರರ⌓ರರ)╮/\╱\</code>
+<code>/╲/&#92;╭(ರರ⌓ರರ)╮/&#92;╱&#92;</code>
 
-<code>/╲/\╭༼ ººل͟ºº ༽╮/\╱\</code>
+<code>/╲/&#92;╭༼ ººل͟ºº ༽╮/&#92;╱&#92;</code>
 
-<code>/╲/\╭( ͡°͡° ͜ʖ ͡°͡°)╮/\╱\</code>
+<code>/╲/&#92;╭( ͡°͡° ͜ʖ ͡°͡°)╮/&#92;╱&#92;</code>
 
-<code>/╲/\╭[ ᴼᴼ ౪ ᴼᴼ]╮/\╱\</code>
+<code>/╲/&#92;╭[ ᴼᴼ ౪ ᴼᴼ]╮/&#92;╱&#92;</code>
 
-<code>/╲/\( •̀ ω •́ )/\╱\</code>
+<code>/╲/&#92;( •̀ ω •́ )/&#92;╱&#92;</code>
 
-<code>/╲/\╭[☉﹏☉]╮/\╱\</code>
+<code>/╲/&#92;╭[☉﹏☉]╮/&#92;╱&#92;</code>
 
 <a name="other-types"></a>
 ## Other Types
@@ -1399,9 +1399,9 @@
 
 <code>(☞°ヮ°)☞ ☜(°ヮ°☜)</code>
 
-<code>＼(▽￣ \ (￣▽￣) / ￣▽)／</code>
+<code>＼(▽￣ &#92; (￣▽￣) / ￣▽)／</code>
 
-<code>\( ˙▿˙ )/\( ˙▿˙ )/</code>
+<code>&#92;( ˙▿˙ )/&#92;( ˙▿˙ )/</code>
 
 <a name="other-types--enemies"></a>
 ### Enemies
@@ -1452,7 +1452,7 @@
 
 <code>(｢• ω •)｢ (⌒ω⌒`)</code>
 
-<code>( °ᴗ°)~ð (/❛o❛\)</code>
+<code>( °ᴗ°)~ð (/❛o❛&#92;)</code>
 
 <a name="other-types--weapons"></a>
 ### Weapons

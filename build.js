@@ -2,14 +2,15 @@ import fs from 'fs/promises'
 
 const slugify = name => name.toLowerCase().replace(/[^a-zA-Z]/g, '-')
 const lookup = {
-  '&': "&amp;",
-  '"': "&quot;",
-  '\'': "&apos;",
-  '<': "&lt;",
-  '>': "&gt;"
+  '&': '&amp;',
+  '"': '&quot;',
+  '\'': '&apos;',
+  '<': '&lt;',
+  '>': '&gt;',
+  '\\': '&#92;'
 }
 const escapeCode = s =>  {
-  return s.replace( /[&"'<>]/g, c => lookup[c] );
+  return s.replace( /[&"'<>\\]/g, c => lookup[c] );
 }
 
 ;(async () => {
