@@ -1,9 +1,14 @@
 
 # Kaomoji
 
-A collection of 778 emoticons.
+Article: [Kaomoji - Japanese Emoticons](https://eliotakira.com/articles/kaomoji/)
 
-[https://en.wikipedia.org/wiki/Emoticon#Japanese_(kaomoji)](https://en.wikipedia.org/wiki/Emoticon#Japanese_(kaomoji))
+---
+
+Kaomoji is a style of emoticons popularized by Japanese users of the web. The first kaomoji `(^_^)` was invented in 1986.
+
+This respository is a collection of 778 emoticons. See `kaomoji.json`.
+
 
 #### Table of contents
 
